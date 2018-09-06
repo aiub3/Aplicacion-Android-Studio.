@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Empresa X</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment">Portada</string>
+    <string name="first_fragment_title">Nosotros</string>
+    <string name="second_fragment">Descripción</string>
+    <string name="second_fragment_title">Nuestro trabajo</string>
+    <string name="third_fragment">Contacto</string>
+    <string name="third_fragment_title">Enviar mensaje</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="mensaje">Mensaje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
