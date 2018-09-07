@@ -4,13 +4,16 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="first_fragment">Portada</string>
     <string name="first_fragment_title">Nosotros</string>
+    <string name="first_fragment_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed tristique magna. Quisque fringilla placerat feugiat. Ut bibendum maximus arcu, quis pellentesque augue mollis ac. Phasellus condimentum cursus erat, et euismod libero convallis interdum. In hac habitasse platea dictumst. Donec mollis nibh euismod, ultrices ligula in, vehicula ligula. In hac habitasse platea dictumst. Nunc eget tempor purus.</string>
     <string name="second_fragment">Descripción</string>
     <string name="second_fragment_title">Nuestro trabajo</string>
+    <string name="second_fragment_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed tristique magna. Quisque fringilla placerat feugiat. Ut bibendum maximus arcu, quis pellentesque augue mollis ac. Phasellus condimentum cursus erat, et euismod libero convallis interdum. In hac habitasse platea dictumst. Donec mollis nibh euismod, ultrices ligula in, vehicula ligula. In hac habitasse platea dictumst. Nunc eget tempor purus.</string>
     <string name="third_fragment">Contacto</string>
     <string name="third_fragment_title">Enviar mensaje</string>
     <string name="nombre">Nombre</string>
     <string name="email">Email</string>
     <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

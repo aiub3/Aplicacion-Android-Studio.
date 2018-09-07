@@ -6,15 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".activities.MainActivity">
 
-    // DE ESTA FORMA IMPLEMENTAMOS EL TOOLBAR EN EL MAINACTIVITY, PONEMOS EL LAYOUT
-    // QUE QUEREMOS IMPLEMENTAR, EN ETSE CASO ESTA EN LA CARPETA LAYOUT Y SE LLAMA TOOLBAR, Y LE DAMOS UN
-    // ID, POR LO QUE EN EL ARCHIVO NO TENEMOS QUE PONERLE ID, SE LO PONEMOS AQUI
-
-    // HAY QUE PONER + ANTES DE ID EN AL MENOS UNO DE CADA ID
     <include android:id="@+id/my_toolbar" layout="@layout/toolbar" />
-
-    <!-- PARA CREAR ETE TABLAYOUT ES NECESARIO IMPLEMENTAR LA LIBRERIA DESIGN EN GRADLE, ESTE TABLAYOUT
-     ES EL LAYOUT DE LOS TBAS -->
 
     <android.support.design.widget.TabLayout
         android:id="@+id/tabLayout"
@@ -25,9 +17,6 @@
         android:elevation="4dp"
         android:minHeight="?attr/actionBarSize"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
-
-    <!-- EL VIEWPAGER ESTA EN UNA LIBRERIA QUE SE IMPLEMENTA POR DEFECTO EN ANDROID, EL VIEWPAGER SIRVE
-     PARA QUE DESLIZANDO LA PANTALLA CON EL DEDO SE CAMBIE DE TAB EN ESTE CASO -->
 
     <android.support.v4.view.ViewPager
         android:id="@+id/viewPager"
